@@ -1,0 +1,17 @@
+<h2>Sales Prediction</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Customer Name</th>
+      <th>Last Order Date</th>
+      <th>Next Predicted Order</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of predictions">
+      <td>{{ p.customerName }}</td>
+      <td>{{ p.lastOrderDate | date:'shortDate' }}</td>
+      <td>{{ p.nextPredictedOrder | date:'shortDate' }}</td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,15 @@
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\bin\Debug\net8.0\DataObjects.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\bin\Debug\net8.0\DataObjects.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll

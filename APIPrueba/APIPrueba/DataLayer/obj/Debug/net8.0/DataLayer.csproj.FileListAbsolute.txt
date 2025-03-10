@@ -1,0 +1,17 @@
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\bin\Debug\net8.0\BusinessLogic.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\bin\Debug\net8.0\DataObjects.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\bin\Debug\net8.0\DataObjects.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

@@ -1,0 +1,17 @@
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\bin\Debug\net8.0\EncryptDecrypt.deps.json
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\bin\Debug\net8.0\EncryptDecrypt.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\bin\Debug\net8.0\EncryptDecrypt.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\bin\Debug\net8.0\BusinessLogic.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\bin\Debug\net8.0\DataObjects.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\bin\Debug\net8.0\DataObjects.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.csproj.AssemblyReference.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.AssemblyInfoInputs.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.AssemblyInfo.cs
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptD.25F6843F.Up2Date
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\refint\EncryptDecrypt.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\ref\EncryptDecrypt.dll

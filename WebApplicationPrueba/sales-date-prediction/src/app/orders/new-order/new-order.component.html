@@ -1,0 +1,30 @@
+<h2>New Order</h2>
+<form (ngSubmit)="createOrder()">
+  <div>
+    <label>Employee ID</label>
+    <input [(ngModel)]="model.empID" name="empID" required />
+  </div>
+  <div>
+    <label>Product ID</label>
+    <input [(ngModel)]="model.productID" name="productID" required />
+  </div>
+  <div>
+    <label>Quantity</label>
+    <input [(ngModel)]="model.qty" name="qty" type="number" required />
+  </div>
+  <div>
+    <label>Ship Name</label>
+    <input [(ngModel)]="model.shipName" name="shipName" required />
+  </div>
+  <div>
+    <label>Ship Address</label>
+    <input [(ngModel)]="model.shipAddress" name="shipAddress" />
+  </div>
+  <div>
+    <label>Ship City</label>
+    <input [(ngModel)]="model.shipCity" name="shipCity" />
+  </div>
+  <!-- Continúa con el resto de campos si lo deseas -->
+
+  <button type="submit">Crear Orden</button>
+</form>

@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DD0BC-3591-42B3-B0CD-1188585270A7}|APIPrueba\\APIPrueba.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\apiprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C20DD0BC-3591-42B3-B0CD-1188585270A7}|APIPrueba\\APIPrueba.csproj|solutionrelative:apiprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DD0BC-3591-42B3-B0CD-1188585270A7}|APIPrueba\\APIPrueba.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\apiprueba\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20DD0BC-3591-42B3-B0CD-1188585270A7}|APIPrueba\\APIPrueba.csproj|solutionrelative:apiprueba\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C925041-4813-4C80-A262-7A92A4B4A884}|DataLayer\\DataLayer.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\datalayer\\getdbdata_dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C925041-4813-4C80-A262-7A92A4B4A884}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\getdbdata_dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A69F2-7D96-46D2-9030-37605907960F}|EncryptDecrypt\\EncryptDecrypt.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\encryptdecrypt\\security.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A69F2-7D96-46D2-9030-37605907960F}|EncryptDecrypt\\EncryptDecrypt.csproj|solutionrelative:encryptdecrypt\\security.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DD0BC-3591-42B3-B0CD-1188585270A7}|APIPrueba\\APIPrueba.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\apiprueba\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20DD0BC-3591-42B3-B0CD-1188585270A7}|APIPrueba\\APIPrueba.csproj|solutionrelative:apiprueba\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C768729B-CCAA-4199-8F07-B9AEEE7737D1}|BusinessLogic\\BusinessLogic.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\businesslogic\\igetdbdata_bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C768729B-CCAA-4199-8F07-B9AEEE7737D1}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\igetdbdata_bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\dataobjects\\shippersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|solutionrelative:dataobjects\\shippersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\dataobjects\\addneworderparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|solutionrelative:dataobjects\\addneworderparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C768729B-CCAA-4199-8F07-B9AEEE7737D1}|BusinessLogic\\BusinessLogic.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\businesslogic\\isecurity_bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C768729B-CCAA-4199-8F07-B9AEEE7737D1}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\isecurity_bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DD0BC-3591-42B3-B0CD-1188585270A7}|APIPrueba\\APIPrueba.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\apiprueba\\apiprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C20DD0BC-3591-42B3-B0CD-1188585270A7}|APIPrueba\\APIPrueba.csproj|solutionrelative:apiprueba\\apiprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\dataobjects\\configmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|solutionrelative:dataobjects\\configmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\dataobjects\\salesdatepredictionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|solutionrelative:dataobjects\\salesdatepredictionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\dataobjects\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|solutionrelative:dataobjects\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|c:\\proyects\\personalproyects\\apiprueba\\apiprueba\\dataobjects\\clientordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231CFB8-BBD2-4072-85D4-91F80E3D729D}|DataObjects\\DataObjects.csproj|solutionrelative:dataobjects\\clientordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\APIPrueba\\appsettings.json",
+              "RelativeDocumentMoniker": "APIPrueba\\appsettings.json",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\APIPrueba\\appsettings.json",
+              "RelativeToolTip": "APIPrueba\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T17:45:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\APIPrueba\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "APIPrueba\\Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\APIPrueba\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "APIPrueba\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:19:19.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISecurity_BL.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\BusinessLogic\\ISecurity_BL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\ISecurity_BL.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\BusinessLogic\\ISecurity_BL.cs",
+              "RelativeToolTip": "BusinessLogic\\ISecurity_BL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:10:42.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Security.cs.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\EncryptDecrypt\\Security.cs.cs",
+              "RelativeDocumentMoniker": "EncryptDecrypt\\Security.cs.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\EncryptDecrypt\\Security.cs.cs",
+              "RelativeToolTip": "EncryptDecrypt\\Security.cs.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAawFUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:09:38.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\ConfigModel.cs",
+              "RelativeDocumentMoniker": "DataObjects\\ConfigModel.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\ConfigModel.cs",
+              "RelativeToolTip": "DataObjects\\ConfigModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:31:49.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "APIPrueba.csproj",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\APIPrueba\\APIPrueba.csproj",
+              "RelativeDocumentMoniker": "APIPrueba\\APIPrueba.csproj",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\APIPrueba\\APIPrueba.csproj",
+              "RelativeToolTip": "APIPrueba\\APIPrueba.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T17:57:08.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\APIPrueba\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "APIPrueba\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\APIPrueba\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "APIPrueba\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:58:58.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesDatePredictionModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\SalesDatePredictionModel.cs",
+              "RelativeDocumentMoniker": "DataObjects\\SalesDatePredictionModel.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\SalesDatePredictionModel.cs",
+              "RelativeToolTip": "DataObjects\\SalesDatePredictionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:42:03.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGetDBData_BL.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\BusinessLogic\\IGetDBData_BL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\IGetDBData_BL.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\BusinessLogic\\IGetDBData_BL.cs",
+              "RelativeToolTip": "BusinessLogic\\IGetDBData_BL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:18:23.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetDBData_DL.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataLayer\\GetDBData_DL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\GetDBData_DL.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataLayer\\GetDBData_DL.cs",
+              "RelativeToolTip": "DataLayer\\GetDBData_DL.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADgv3kAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:59:42.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShippersModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\ShippersModel.cs",
+              "RelativeDocumentMoniker": "DataObjects\\ShippersModel.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\ShippersModel.cs",
+              "RelativeToolTip": "DataObjects\\ShippersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:25:00.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\ProductsModel.cs",
+              "RelativeDocumentMoniker": "DataObjects\\ProductsModel.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\ProductsModel.cs",
+              "RelativeToolTip": "DataObjects\\ProductsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:28:37.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddNewOrderParametersModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\AddNewOrderParametersModel.cs",
+              "RelativeDocumentMoniker": "DataObjects\\AddNewOrderParametersModel.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\AddNewOrderParametersModel.cs",
+              "RelativeToolTip": "DataObjects\\AddNewOrderParametersModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:24:04.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientOrdersModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\ClientOrdersModel.cs",
+              "RelativeDocumentMoniker": "DataObjects\\ClientOrdersModel.cs",
+              "ToolTip": "C:\\Proyects\\PersonalProyects\\APIPrueba\\APIPrueba\\DataObjects\\ClientOrdersModel.cs",
+              "RelativeToolTip": "DataObjects\\ClientOrdersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:06:59.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

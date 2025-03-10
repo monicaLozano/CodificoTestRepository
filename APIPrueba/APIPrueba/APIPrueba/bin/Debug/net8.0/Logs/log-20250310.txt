@@ -1,0 +1,254 @@
+2025-03-10 12:28:13 [Information] Now listening on: "http://localhost:5171"
+2025-03-10 12:28:13 [Information] Application started. Press Ctrl+C to shut down.
+2025-03-10 12:28:13 [Information] Hosting environment: "Development"
+2025-03-10 12:28:13 [Information] Content root path: "C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba"
+2025-03-10 12:28:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger""" - null null
+2025-03-10 12:28:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger""" - 301 0 null 333.103ms
+2025-03-10 12:28:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - null null
+2025-03-10 12:28:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 146.8425ms
+2025-03-10 12:28:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/swagger-ui.css""" - null null
+2025-03-10 12:28:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/swagger-ui-bundle.js""" - null null
+2025-03-10 12:28:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/swagger-ui-standalone-preset.js""" - null null
+2025-03-10 12:28:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - null null
+2025-03-10 12:28:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - null null
+2025-03-10 12:28:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 40.7958ms
+2025-03-10 12:28:14 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2025-03-10 12:28:14 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2025-03-10 12:28:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/swagger-ui-standalone-preset.js""" - 200 230280 "text/javascript" 112.3303ms
+2025-03-10 12:28:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/swagger-ui.css""" - 200 152034 "text/css" 142.2157ms
+2025-03-10 12:28:14 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2025-03-10 12:28:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/swagger-ui-bundle.js""" - 200 1456926 "text/javascript" 131.1795ms
+2025-03-10 12:28:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 137.1303ms
+2025-03-10 12:28:15 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - null null
+2025-03-10 12:28:15 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/favicon-32x32.png""" - null null
+2025-03-10 12:28:15 [Information] Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+2025-03-10 12:28:15 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/favicon-32x32.png""" - 200 628 "image/png" 0.8382ms
+2025-03-10 12:28:15 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 160.2127ms
+2025-03-10 12:33:20 [Information] Now listening on: "http://localhost:5171"
+2025-03-10 12:33:20 [Information] Application started. Press Ctrl+C to shut down.
+2025-03-10 12:33:20 [Information] Hosting environment: "Development"
+2025-03-10 12:33:20 [Information] Content root path: "C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba"
+2025-03-10 12:33:20 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - null null
+2025-03-10 12:33:20 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 213.7064ms
+2025-03-10 12:33:20 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - null null
+2025-03-10 12:33:20 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - null null
+2025-03-10 12:33:20 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 3.6489ms
+2025-03-10 12:33:20 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 34.1036ms
+2025-03-10 12:33:21 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - null null
+2025-03-10 12:33:21 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 85.9455ms
+2025-03-10 12:33:32 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Catalog/Employees""" - null null
+2025-03-10 12:33:32 [Warning] Failed to determine the https port for redirect.
+2025-03-10 12:33:32 [Information] Executing endpoint '"APIPrueba.Controllers.CatalogController.GetEmployees (APIPrueba)"'
+2025-03-10 12:33:32 [Information] Route matched with "{action = \"GetEmployees\", controller = \"Catalog\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetEmployees()" on controller "APIPrueba.Controllers.CatalogController" ("APIPrueba").
+2025-03-10 12:45:06 [Information] Now listening on: "http://localhost:5171"
+2025-03-10 12:45:07 [Information] Application started. Press Ctrl+C to shut down.
+2025-03-10 12:45:07 [Information] Hosting environment: "Development"
+2025-03-10 12:45:07 [Information] Content root path: "C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba"
+2025-03-10 12:45:08 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - null null
+2025-03-10 12:45:08 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 638.3444ms
+2025-03-10 12:45:08 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - null null
+2025-03-10 12:45:08 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - null null
+2025-03-10 12:45:08 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 8.4768ms
+2025-03-10 12:45:09 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 329.296ms
+2025-03-10 12:45:09 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - null null
+2025-03-10 12:45:09 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 248.6543ms
+2025-03-10 12:45:15 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 12:45:15 [Warning] Failed to determine the https port for redirect.
+2025-03-10 12:45:15 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 12:45:15 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 12:46:13 [Information] Now listening on: "http://localhost:5171"
+2025-03-10 12:46:13 [Information] Application started. Press Ctrl+C to shut down.
+2025-03-10 12:46:13 [Information] Hosting environment: "Development"
+2025-03-10 12:46:13 [Information] Content root path: "C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba"
+2025-03-10 12:46:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - null null
+2025-03-10 12:46:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 466.0115ms
+2025-03-10 12:46:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - null null
+2025-03-10 12:46:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 8.9461ms
+2025-03-10 12:46:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - null null
+2025-03-10 12:46:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 81.951ms
+2025-03-10 12:46:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - null null
+2025-03-10 12:46:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 211.4474ms
+2025-03-10 12:46:23 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 12:46:23 [Warning] Failed to determine the https port for redirect.
+2025-03-10 12:46:23 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 12:46:23 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 12:46:28 [Information] Obteniendo predicción de ventas.
+2025-03-10 13:01:46 [Information] Now listening on: "http://localhost:5171"
+2025-03-10 13:01:46 [Information] Application started. Press Ctrl+C to shut down.
+2025-03-10 13:01:46 [Information] Hosting environment: "Development"
+2025-03-10 13:01:46 [Information] Content root path: "C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba"
+2025-03-10 13:01:47 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - null null
+2025-03-10 13:01:47 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 177.9917ms
+2025-03-10 13:01:47 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - null null
+2025-03-10 13:01:47 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - null null
+2025-03-10 13:01:47 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 3.18ms
+2025-03-10 13:01:47 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 32.6388ms
+2025-03-10 13:01:47 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - null null
+2025-03-10 13:01:47 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 69.1817ms
+2025-03-10 13:01:52 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 13:01:52 [Warning] Failed to determine the https port for redirect.
+2025-03-10 13:01:52 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:01:52 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 13:02:33 [Information] Now listening on: "http://localhost:5171"
+2025-03-10 13:02:33 [Information] Application started. Press Ctrl+C to shut down.
+2025-03-10 13:02:33 [Information] Hosting environment: "Development"
+2025-03-10 13:02:33 [Information] Content root path: "C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba"
+2025-03-10 13:02:33 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - null null
+2025-03-10 13:02:33 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 178.8791ms
+2025-03-10 13:02:33 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - null null
+2025-03-10 13:02:33 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - null null
+2025-03-10 13:02:33 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 7.0507ms
+2025-03-10 13:02:33 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 47.4078ms
+2025-03-10 13:02:34 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - null null
+2025-03-10 13:02:34 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 86.8188ms
+2025-03-10 13:02:42 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 13:02:42 [Warning] Failed to determine the https port for redirect.
+2025-03-10 13:02:42 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:02:42 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 13:02:45 [Information] Obteniendo predicción de ventas.
+2025-03-10 13:03:13 [Information] Executed action "SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)" in 31310.8867ms
+2025-03-10 13:03:13 [Information] Executed endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:03:13 [Error] An unhandled exception has occurred while executing the request.
+System.Exception: It was not possible insert value,  La conexión con el servidor se ha establecido correctamente, pero se ha producido un error durante el proceso de inicio de sesión. (provider: Proveedor de memoria compartida, error: 0 - No hay ningún proceso en el otro extremo de la canalización.)
+   at DataLayer.GetDBData_DL.DatePrediction() in C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\GetDBData_DL.cs:line 124
+   at SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction() in C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\Controllers\OrdersController.cs:line 44
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-10 13:03:13 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - 500 null "text/plain; charset=utf-8" 31507.6747ms
+2025-03-10 13:03:19 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 13:03:19 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:03:19 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 13:03:23 [Information] Obteniendo predicción de ventas.
+2025-03-10 13:04:54 [Information] Now listening on: "http://localhost:5171"
+2025-03-10 13:04:54 [Information] Application started. Press Ctrl+C to shut down.
+2025-03-10 13:04:54 [Information] Hosting environment: "Development"
+2025-03-10 13:04:54 [Information] Content root path: "C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba"
+2025-03-10 13:04:55 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - null null
+2025-03-10 13:04:55 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 227.4458ms
+2025-03-10 13:04:55 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - null null
+2025-03-10 13:04:55 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - null null
+2025-03-10 13:04:55 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 5.2595ms
+2025-03-10 13:04:55 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 48.7682ms
+2025-03-10 13:04:55 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - null null
+2025-03-10 13:04:55 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 118.9953ms
+2025-03-10 13:04:59 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 13:04:59 [Warning] Failed to determine the https port for redirect.
+2025-03-10 13:04:59 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:04:59 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 13:05:25 [Information] Now listening on: "http://localhost:5171"
+2025-03-10 13:05:25 [Information] Application started. Press Ctrl+C to shut down.
+2025-03-10 13:05:25 [Information] Hosting environment: "Development"
+2025-03-10 13:05:25 [Information] Content root path: "C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba"
+2025-03-10 13:05:26 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - null null
+2025-03-10 13:05:26 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 186.3202ms
+2025-03-10 13:05:26 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - null null
+2025-03-10 13:05:26 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - null null
+2025-03-10 13:05:26 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 3.3778ms
+2025-03-10 13:05:26 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 38.9773ms
+2025-03-10 13:05:26 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - null null
+2025-03-10 13:05:26 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 75.9681ms
+2025-03-10 13:05:32 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 13:05:32 [Warning] Failed to determine the https port for redirect.
+2025-03-10 13:05:32 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:05:32 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 13:05:32 [Information] Obteniendo predicción de ventas.
+2025-03-10 13:06:13 [Information] Executed action "SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)" in 40933.6402ms
+2025-03-10 13:06:13 [Information] Executed endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:06:13 [Error] An unhandled exception has occurred while executing the request.
+System.Exception: It was not possible insert value,  The EXECUTE permission was denied on the object 'sel_GetSalesDatePrediction', database 'StoreSample', schema 'dbo'.
+   at DataLayer.GetDBData_DL.DatePrediction() in C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\GetDBData_DL.cs:line 124
+   at SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction() in C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\Controllers\OrdersController.cs:line 44
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-10 13:06:13 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - 500 null "text/plain; charset=utf-8" 41044.4284ms
+2025-03-10 13:06:17 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 13:06:17 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:06:17 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 13:06:17 [Information] Obteniendo predicción de ventas.
+2025-03-10 13:10:04 [Information] Executed action "SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)" in 226516.7659ms
+2025-03-10 13:10:04 [Information] Executed endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:10:04 [Error] An unhandled exception has occurred while executing the request.
+System.Exception: It was not possible insert value,  The EXECUTE permission was denied on the object 'sel_GetSalesDatePrediction', database 'StoreSample', schema 'dbo'.
+   at DataLayer.GetDBData_DL.DatePrediction() in C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\GetDBData_DL.cs:line 124
+   at SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction() in C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\Controllers\OrdersController.cs:line 44
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-10 13:10:04 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - 500 null "text/plain; charset=utf-8" 226555.463ms
+2025-03-10 13:10:07 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - null null
+2025-03-10 13:10:07 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:10:07 [Information] Route matched with "{action = \"GetSalesPrediction\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetSalesPrediction()" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 13:10:07 [Information] Obteniendo predicción de ventas.
+2025-03-10 13:10:16 [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DataObjects.SalesDatePredictionModel, DataObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+2025-03-10 13:10:16 [Information] Executed action "SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)" in 8140.2033ms
+2025-03-10 13:10:16 [Information] Executed endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.GetSalesPrediction (APIPrueba)"'
+2025-03-10 13:10:16 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5171""""/api/Orders/SalesPrediction""" - 200 null "application/json; charset=utf-8" 8141.817ms
+2025-03-10 13:11:11 [Information] Request starting "HTTP/1.1" "OPTIONS" "http"://"localhost:5171""""/api/Orders/NewOrder""" - null null
+2025-03-10 13:11:11 [Information] CORS policy execution successful.
+2025-03-10 13:11:11 [Information] Request finished "HTTP/1.1" "OPTIONS" "http"://"localhost:5171""""/api/Orders/NewOrder""" - 204 null null 4.3813ms
+2025-03-10 13:11:11 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5171""""/api/Orders/NewOrder""" - "application/json" 318
+2025-03-10 13:11:11 [Information] CORS policy execution successful.
+2025-03-10 13:11:11 [Information] Executing endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.AddNewOrder (APIPrueba)"'
+2025-03-10 13:11:11 [Information] Route matched with "{action = \"AddNewOrder\", controller = \"Orders\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult AddNewOrder(DataObjects.AddNewOrderParametersModel)" on controller "SalesDatePrediction.Api.Controllers.OrdersController" ("APIPrueba").
+2025-03-10 13:11:11 [Information] Intentando crear una nueva orden.
+2025-03-10 13:11:11 [Error] Error al crear la nueva orden.
+System.Exception: It was not possible insert value,  The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Orders_Customers". The conflict occurred in database "StoreSample", table "dbo.Customers", column 'CustomerID'.
+Cannot insert the value NULL into column 'OrderID', table 'StoreSample.dbo.OrderDetails'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+The statement has been terminated.
+   at DataLayer.GetDBData_DL.AddNewOrder(AddNewOrderParametersModel newOrder) in C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\GetDBData_DL.cs:line 50
+   at SalesDatePrediction.Api.Controllers.OrdersController.AddNewOrder(AddNewOrderParametersModel request) in C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\Controllers\OrdersController.cs:line 64
+2025-03-10 13:11:11 [Information] Executing "ObjectResult", writing value of type '"System.String"'.
+2025-03-10 13:11:11 [Information] Executed action "SalesDatePrediction.Api.Controllers.OrdersController.AddNewOrder (APIPrueba)" in 324.2749ms
+2025-03-10 13:11:11 [Information] Executed endpoint '"SalesDatePrediction.Api.Controllers.OrdersController.AddNewOrder (APIPrueba)"'
+2025-03-10 13:11:11 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5171""""/api/Orders/NewOrder""" - 500 null "text/plain; charset=utf-8" 351.883ms

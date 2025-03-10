@@ -1,0 +1,27 @@
+h1 {
+    color: #007bff;
+    text-align: center;
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  
+  .nav-link {
+    color: blue; /* Color azul para los enlaces */
+    text-decoration: underline;
+    cursor: pointer; /* Hace que se vea como un enlace */
+    padding: 10px;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .active-link {
+    font-weight: bold;
+    color: red;
+  }
+  

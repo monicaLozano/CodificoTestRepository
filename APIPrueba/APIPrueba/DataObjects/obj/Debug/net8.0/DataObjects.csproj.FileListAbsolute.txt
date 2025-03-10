@@ -1,0 +1,11 @@
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\bin\Debug\net8.0\DataObjects.deps.json
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\bin\Debug\net8.0\DataObjects.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\bin\Debug\net8.0\DataObjects.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\DataObjects.AssemblyInfoInputs.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\DataObjects.AssemblyInfo.cs
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\DataObjects.csproj.CoreCompileInputs.cache
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\DataObjects.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\refint\DataObjects.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\DataObjects.pdb
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\ref\DataObjects.dll
