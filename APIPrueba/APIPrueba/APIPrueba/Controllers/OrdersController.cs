@@ -38,25 +38,25 @@ namespace SalesDatePrediction.Api.Controllers
 
         // 1. Listar clientes con fecha de última orden y fecha de posible orden
         [HttpGet("SalesPrediction")]
-        public IActionResult GetSalesPrediction()
+        public async Task<IEnumerable<SalesDatePredictionModel>> GetSalesPrediction()
         {
             _logger.LogInformation("Obteniendo predicción de ventas.");
-            var result = _getDBData.DatePrediction();
-            return Ok(result);
+            List<SalesDatePredictionModel> result = _getDBData.DatePrediction();
+            return result;
         }
 
         // 2. Listar órdenes por cliente
         [HttpGet("ClientOrders/{customerId}")]
-        public IActionResult GetClientOrders(int customerId)
+        public async Task<IEnumerable<ClientOrdersModel>> GetClientOrders(int customerId)
         {
             _logger.LogInformation($"Obteniendo órdenes para cliente {customerId}");
-            var result = _getDBData.ClientOrders(customerId);
-            return Ok(result);
+            List<ClientOrdersModel> result = _getDBData.ClientOrders(customerId);
+            return result;
         }
 
         // 3. Crear nueva orden con un producto
         [HttpPost("NewOrder")]
-        public IActionResult AddNewOrder([FromBody] AddNewOrderParametersModel request)
+        public async Task<IActionResult> AddNewOrder([FromBody] AddNewOrderParametersModel request)
         {
             _logger.LogInformation("Intentando crear una nueva orden.");
             try
@@ -68,7 +68,7 @@ namespace SalesDatePrediction.Api.Controllers
             catch (System.Exception ex)
             {
                 _logger.LogError(ex, "Error al crear la nueva orden.");
-                return StatusCode(500, "Ha ocurrido un error al crear la orden.");
+                return BadRequest( "Ha ocurrido un error al crear la orden: " + ex.Message);
             }
         }
     }

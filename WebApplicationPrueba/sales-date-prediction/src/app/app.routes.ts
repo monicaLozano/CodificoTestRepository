@@ -11,5 +11,10 @@ export const appRoutes: Routes = [
     path: 'orders',
     loadChildren: () =>
       import('./orders/orders.module').then(m => m.OrdersModule)
+  },
+  {
+    path: 'catalog',
+    loadChildren: () =>
+      import('./catalog/catalog.module').then(m => m.CatalogModule) // ✅ Cargar catálogo
   }
 ];

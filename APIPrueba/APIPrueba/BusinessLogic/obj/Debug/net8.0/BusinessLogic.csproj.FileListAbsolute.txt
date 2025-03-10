@@ -13,3 +13,4 @@ C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json

@@ -8,11 +8,11 @@ namespace DataObjects
 {
     public class ClientOrdersModel
     {
-        int OrderID { get; set; }
-        DateTime RequiredDate { get; set; }
-        DateTime ShippedDate { get; set; }
-        string ShipName { get; set; }
-        string ShipAddress { get; set; }
-        string ShipCity { get; set; }
+        public int OrderID { get; set; }
+        public DateTime RequiredDate { get; set; }
+        public DateTime ShippedDate { get; set; }
+        public string ShipName { get; set; }
+        public string ShipAddress { get; set; }
+        public string ShipCity { get; set; }
     }
 }

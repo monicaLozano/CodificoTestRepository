@@ -1,0 +1,17 @@
+<div class="table-container">
+    <h2>Lista de Transportistas</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Compañía</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let shipper of shippers">
+          <td>{{ shipper.shipperID }}</td>
+          <td>{{ shipper.companyName }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

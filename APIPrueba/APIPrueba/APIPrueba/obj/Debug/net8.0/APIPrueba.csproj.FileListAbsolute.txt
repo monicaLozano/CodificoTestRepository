@@ -108,3 +108,4 @@ C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\obj\Debug\net8.0\refi
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\obj\Debug\net8.0\APIPrueba.pdb
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\obj\Debug\net8.0\APIPrueba.genruntimeconfig.cache
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\obj\Debug\net8.0\ref\APIPrueba.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\APIPrueba\obj\Debug\net8.0\APIPrueba.sourcelink.json

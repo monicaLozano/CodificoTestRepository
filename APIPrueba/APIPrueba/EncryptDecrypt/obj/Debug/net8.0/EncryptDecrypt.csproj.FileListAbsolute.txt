@@ -15,3 +15,4 @@ C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\refint\EncryptDecrypt.dll
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.pdb
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\ref\EncryptDecrypt.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.sourcelink.json

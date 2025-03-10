@@ -9,3 +9,4 @@ C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\Da
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\refint\DataObjects.dll
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\DataObjects.pdb
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\ref\DataObjects.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataObjects\obj\Debug\net8.0\DataObjects.sourcelink.json

@@ -1,8 +1,14 @@
-<h1>{{ title }}</h1>
-<nav>
-  <a routerLink="/sales-prediction" routerLinkActive="active">Sales Prediction</a> | 
-  <a routerLink="/orders" routerLinkActive="active">Orders</a> | 
-  <a routerLink="/orders/new" routerLinkActive="active">New Order</a>
+<h1 class="text-center mt-3">{{ title }}</h1>
+
+<nav class="d-flex justify-content-center flex-wrap gap-3 mt-3">
+  <a class="btn btn-primary" routerLink="/sales-prediction" routerLinkActive="active">Sales Prediction</a>
+  <a class="btn btn-secondary" routerLink="/orders" routerLinkActive="active">Orders</a>
+  <a class="btn btn-success" routerLink="/orders/new" routerLinkActive="active">New Order</a>
+  <a class="btn btn-info" routerLink="/catalog/shippers" routerLinkActive="active">Shippers</a>  <!-- ✅ Añadir /catalog/ -->
+  <a class="btn btn-warning" routerLink="/catalog/employees" routerLinkActive="active">Employees</a> <!-- ✅ Añadir /catalog/ -->
+  <a class="btn btn-danger" routerLink="/catalog/products" routerLinkActive="active">Products</a> <!-- ✅ Añadir /catalog/ -->
 </nav>
+
 <hr>
+
 <router-outlet></router-outlet>

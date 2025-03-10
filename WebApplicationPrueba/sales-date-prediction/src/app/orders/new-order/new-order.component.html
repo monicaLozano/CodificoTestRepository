@@ -1,30 +1,91 @@
-<h2>New Order</h2>
-<form (ngSubmit)="createOrder()">
-  <div>
-    <label>Employee ID</label>
-    <input [(ngModel)]="model.empID" name="empID" required />
-  </div>
-  <div>
-    <label>Product ID</label>
-    <input [(ngModel)]="model.productID" name="productID" required />
-  </div>
-  <div>
-    <label>Quantity</label>
-    <input [(ngModel)]="model.qty" name="qty" type="number" required />
-  </div>
-  <div>
-    <label>Ship Name</label>
-    <input [(ngModel)]="model.shipName" name="shipName" required />
-  </div>
-  <div>
-    <label>Ship Address</label>
-    <input [(ngModel)]="model.shipAddress" name="shipAddress" />
-  </div>
-  <div>
-    <label>Ship City</label>
-    <input [(ngModel)]="model.shipCity" name="shipCity" />
-  </div>
-  <!-- Continúa con el resto de campos si lo deseas -->
+<h2 class="text-center my-4">New Order</h2>
 
-  <button type="submit">Crear Orden</button>
-</form>
+<div class="container d-flex justify-content-center">
+  <div class="col-lg-8 col-md-10 col-sm-12">
+    <form (ngSubmit)="createOrder()" class="card p-4 shadow-lg">
+      
+      <div class="row g-3">
+        <div class="col-md-6">
+          <label class="form-label">Customer ID</label>
+          <input [(ngModel)]="model.customerID" name="customerID" class="form-control" required />
+        </div>
+        <div class="col-md-6">
+          <label class="form-label">Employee ID</label>
+          <input [(ngModel)]="model.empID" name="empID" class="form-control" required />
+        </div>
+      </div>
+
+      <div class="row g-3 mt-2">
+        <div class="col-md-6">
+          <label class="form-label">Shipper ID</label>
+          <input [(ngModel)]="model.shipperID" name="shipperID" class="form-control" required />
+        </div>
+        <div class="col-md-6">
+          <label class="form-label">Ship Name</label>
+          <input [(ngModel)]="model.shipName" name="shipName" class="form-control" required />
+        </div>
+      </div>
+
+      <div class="row g-3 mt-2">
+        <div class="col-md-6">
+          <label class="form-label">Ship Address</label>
+          <input [(ngModel)]="model.shipAddress" name="shipAddress" class="form-control" required />
+        </div>
+        <div class="col-md-6">
+          <label class="form-label">Ship City</label>
+          <input [(ngModel)]="model.shipCity" name="shipCity" class="form-control" required />
+        </div>
+      </div>
+
+      <div class="row g-3 mt-2">
+        <div class="col-md-4">
+          <label class="form-label">Order Date</label>
+          <input type="date" [(ngModel)]="model.orderDate" name="orderDate" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">Required Date</label>
+          <input type="date" [(ngModel)]="model.requiredDate" name="requiredDate" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">Shipped Date</label>
+          <input type="date" [(ngModel)]="model.shippedDate" name="shippedDate" class="form-control" required />
+        </div>
+      </div>
+
+      <div class="row g-3 mt-2">
+        <div class="col-md-4">
+          <label class="form-label">Freight</label>
+          <input type="number" [(ngModel)]="model.freight" name="freight" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">Ship Country</label>
+          <input [(ngModel)]="model.shipCountry" name="shipCountry" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">Product ID</label>
+          <input [(ngModel)]="model.productID" name="productID" class="form-control" required />
+        </div>
+      </div>
+
+      <div class="row g-3 mt-2">
+        <div class="col-md-4">
+          <label class="form-label">Unit Price</label>
+          <input type="number" [(ngModel)]="model.unitPrice" name="unitPrice" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">Quantity</label>
+          <input type="number" [(ngModel)]="model.qty" name="qty" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">Discount</label>
+          <input type="number" [(ngModel)]="model.discount" name="discount" class="form-control" step="0.01" />
+        </div>
+      </div>
+
+      <div class="text-center mt-4">
+        <button type="submit" class="btn btn-primary btn-lg w-100">Create Order</button>
+      </div>
+
+    </form>
+  </div>
+</div>

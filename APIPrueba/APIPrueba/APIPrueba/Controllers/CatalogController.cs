@@ -23,6 +23,7 @@ namespace APIPrueba.Controllers
             _logger = logger;
             _conn = conn;
             _security = new Security();
+            string encriptValue = _security.EncryptLongData("Connection string to encrypt");
             if (_conn.ConnectionType == "1")
             {
                 _connString = _security.DecryptLongData(_conn.DevConnection);
@@ -35,24 +36,24 @@ namespace APIPrueba.Controllers
         }
 
         [HttpGet("Employees")]
-        public IActionResult GetEmployees()
+        public async Task<IEnumerable<EmployeesModel>> GetEmployees()
         {
-            var employees = _getDBData.employees();
-            return Ok(employees);
+            List<EmployeesModel> employees = _getDBData.employees();
+            return employees;
         }
 
         [HttpGet("Shippers")]
-        public IActionResult GetShippers()
+        public async Task<IEnumerable<ShippersModel>> GetShippers()
         {
-            var shippers = _getDBData.GetShippers();
-            return Ok(shippers);
+            List<ShippersModel> shippers = _getDBData.GetShippers();
+            return shippers;
         }
 
         [HttpGet("Products")]
-        public IActionResult GetProducts()
+        public async Task<IEnumerable<ProductsModel>> GetProducts()
         {
-            var products = _getDBData.Products();
-            return Ok(products);
+            List<ProductsModel> products = _getDBData.Products();
+            return products;
         }
     }
 

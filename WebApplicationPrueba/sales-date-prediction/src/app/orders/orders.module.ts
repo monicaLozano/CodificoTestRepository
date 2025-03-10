@@ -12,9 +12,7 @@ const routes: Routes = [
 @NgModule({
   imports: [
     CommonModule,
-    RouterModule.forChild(routes),
-    OrdersListComponent, // ✅ Importar el componente standalone
-    NewOrderComponent // ✅ Importar el componente standalone
+    RouterModule.forChild(routes) // ✅ NO uses los componentes standalone en imports
   ]
 })
 export class OrdersModule {}

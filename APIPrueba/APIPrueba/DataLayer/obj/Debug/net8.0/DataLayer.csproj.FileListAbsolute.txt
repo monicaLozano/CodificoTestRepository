@@ -15,3 +15,4 @@ C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\Data
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.pdb
 C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Proyects\PersonalProyects\APIPrueba\APIPrueba\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json
